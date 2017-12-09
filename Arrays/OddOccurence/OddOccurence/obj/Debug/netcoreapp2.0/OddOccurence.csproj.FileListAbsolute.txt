@@ -1,0 +1,10 @@
+D:\geeks\geeksForGeeks\Arrays\OddOccurence\OddOccurence\bin\Debug\netcoreapp2.0\OddOccurence.deps.json
+D:\geeks\geeksForGeeks\Arrays\OddOccurence\OddOccurence\bin\Debug\netcoreapp2.0\OddOccurence.runtimeconfig.json
+D:\geeks\geeksForGeeks\Arrays\OddOccurence\OddOccurence\bin\Debug\netcoreapp2.0\OddOccurence.runtimeconfig.dev.json
+D:\geeks\geeksForGeeks\Arrays\OddOccurence\OddOccurence\bin\Debug\netcoreapp2.0\OddOccurence.dll
+D:\geeks\geeksForGeeks\Arrays\OddOccurence\OddOccurence\bin\Debug\netcoreapp2.0\OddOccurence.pdb
+D:\geeks\geeksForGeeks\Arrays\OddOccurence\OddOccurence\obj\Debug\netcoreapp2.0\OddOccurence.csproj.CoreCompileInputs.cache
+D:\geeks\geeksForGeeks\Arrays\OddOccurence\OddOccurence\obj\Debug\netcoreapp2.0\OddOccurence.AssemblyInfoInputs.cache
+D:\geeks\geeksForGeeks\Arrays\OddOccurence\OddOccurence\obj\Debug\netcoreapp2.0\OddOccurence.AssemblyInfo.cs
+D:\geeks\geeksForGeeks\Arrays\OddOccurence\OddOccurence\obj\Debug\netcoreapp2.0\OddOccurence.dll
+D:\geeks\geeksForGeeks\Arrays\OddOccurence\OddOccurence\obj\Debug\netcoreapp2.0\OddOccurence.pdb
