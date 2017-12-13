@@ -1,0 +1,11 @@
+D:\geeks\geeksForGeeks\Recursion\ReverseStackUsingRecursion\ReverseStackUsingRecursion\bin\Debug\netcoreapp2.0\ReverseStackUsingRecursion.deps.json
+D:\geeks\geeksForGeeks\Recursion\ReverseStackUsingRecursion\ReverseStackUsingRecursion\bin\Debug\netcoreapp2.0\ReverseStackUsingRecursion.runtimeconfig.json
+D:\geeks\geeksForGeeks\Recursion\ReverseStackUsingRecursion\ReverseStackUsingRecursion\bin\Debug\netcoreapp2.0\ReverseStackUsingRecursion.runtimeconfig.dev.json
+D:\geeks\geeksForGeeks\Recursion\ReverseStackUsingRecursion\ReverseStackUsingRecursion\bin\Debug\netcoreapp2.0\ReverseStackUsingRecursion.dll
+D:\geeks\geeksForGeeks\Recursion\ReverseStackUsingRecursion\ReverseStackUsingRecursion\bin\Debug\netcoreapp2.0\ReverseStackUsingRecursion.pdb
+D:\geeks\geeksForGeeks\Recursion\ReverseStackUsingRecursion\ReverseStackUsingRecursion\obj\Debug\netcoreapp2.0\ReverseStackUsingRecursion.csprojResolveAssemblyReference.cache
+D:\geeks\geeksForGeeks\Recursion\ReverseStackUsingRecursion\ReverseStackUsingRecursion\obj\Debug\netcoreapp2.0\ReverseStackUsingRecursion.csproj.CoreCompileInputs.cache
+D:\geeks\geeksForGeeks\Recursion\ReverseStackUsingRecursion\ReverseStackUsingRecursion\obj\Debug\netcoreapp2.0\ReverseStackUsingRecursion.AssemblyInfoInputs.cache
+D:\geeks\geeksForGeeks\Recursion\ReverseStackUsingRecursion\ReverseStackUsingRecursion\obj\Debug\netcoreapp2.0\ReverseStackUsingRecursion.AssemblyInfo.cs
+D:\geeks\geeksForGeeks\Recursion\ReverseStackUsingRecursion\ReverseStackUsingRecursion\obj\Debug\netcoreapp2.0\ReverseStackUsingRecursion.dll
+D:\geeks\geeksForGeeks\Recursion\ReverseStackUsingRecursion\ReverseStackUsingRecursion\obj\Debug\netcoreapp2.0\ReverseStackUsingRecursion.pdb
