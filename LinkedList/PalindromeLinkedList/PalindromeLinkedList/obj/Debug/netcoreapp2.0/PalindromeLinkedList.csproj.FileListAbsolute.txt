@@ -1,0 +1,11 @@
+D:\geeks\geeksForGeeks\LinkedList\PalindromeLinkedList\PalindromeLinkedList\bin\Debug\netcoreapp2.0\PalindromeLinkedList.deps.json
+D:\geeks\geeksForGeeks\LinkedList\PalindromeLinkedList\PalindromeLinkedList\bin\Debug\netcoreapp2.0\PalindromeLinkedList.runtimeconfig.json
+D:\geeks\geeksForGeeks\LinkedList\PalindromeLinkedList\PalindromeLinkedList\bin\Debug\netcoreapp2.0\PalindromeLinkedList.runtimeconfig.dev.json
+D:\geeks\geeksForGeeks\LinkedList\PalindromeLinkedList\PalindromeLinkedList\bin\Debug\netcoreapp2.0\PalindromeLinkedList.dll
+D:\geeks\geeksForGeeks\LinkedList\PalindromeLinkedList\PalindromeLinkedList\bin\Debug\netcoreapp2.0\PalindromeLinkedList.pdb
+D:\geeks\geeksForGeeks\LinkedList\PalindromeLinkedList\PalindromeLinkedList\obj\Debug\netcoreapp2.0\PalindromeLinkedList.csprojResolveAssemblyReference.cache
+D:\geeks\geeksForGeeks\LinkedList\PalindromeLinkedList\PalindromeLinkedList\obj\Debug\netcoreapp2.0\PalindromeLinkedList.csproj.CoreCompileInputs.cache
+D:\geeks\geeksForGeeks\LinkedList\PalindromeLinkedList\PalindromeLinkedList\obj\Debug\netcoreapp2.0\PalindromeLinkedList.AssemblyInfoInputs.cache
+D:\geeks\geeksForGeeks\LinkedList\PalindromeLinkedList\PalindromeLinkedList\obj\Debug\netcoreapp2.0\PalindromeLinkedList.AssemblyInfo.cs
+D:\geeks\geeksForGeeks\LinkedList\PalindromeLinkedList\PalindromeLinkedList\obj\Debug\netcoreapp2.0\PalindromeLinkedList.dll
+D:\geeks\geeksForGeeks\LinkedList\PalindromeLinkedList\PalindromeLinkedList\obj\Debug\netcoreapp2.0\PalindromeLinkedList.pdb

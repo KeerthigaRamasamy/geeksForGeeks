@@ -1,0 +1,11 @@
+D:\geeks\geeksForGeeks\Arrays\RotateArray\RotateArray\bin\Debug\netcoreapp2.0\RotateArray.deps.json
+D:\geeks\geeksForGeeks\Arrays\RotateArray\RotateArray\bin\Debug\netcoreapp2.0\RotateArray.runtimeconfig.json
+D:\geeks\geeksForGeeks\Arrays\RotateArray\RotateArray\bin\Debug\netcoreapp2.0\RotateArray.runtimeconfig.dev.json
+D:\geeks\geeksForGeeks\Arrays\RotateArray\RotateArray\bin\Debug\netcoreapp2.0\RotateArray.dll
+D:\geeks\geeksForGeeks\Arrays\RotateArray\RotateArray\bin\Debug\netcoreapp2.0\RotateArray.pdb
+D:\geeks\geeksForGeeks\Arrays\RotateArray\RotateArray\obj\Debug\netcoreapp2.0\RotateArray.csprojResolveAssemblyReference.cache
+D:\geeks\geeksForGeeks\Arrays\RotateArray\RotateArray\obj\Debug\netcoreapp2.0\RotateArray.csproj.CoreCompileInputs.cache
+D:\geeks\geeksForGeeks\Arrays\RotateArray\RotateArray\obj\Debug\netcoreapp2.0\RotateArray.AssemblyInfoInputs.cache
+D:\geeks\geeksForGeeks\Arrays\RotateArray\RotateArray\obj\Debug\netcoreapp2.0\RotateArray.AssemblyInfo.cs
+D:\geeks\geeksForGeeks\Arrays\RotateArray\RotateArray\obj\Debug\netcoreapp2.0\RotateArray.dll
+D:\geeks\geeksForGeeks\Arrays\RotateArray\RotateArray\obj\Debug\netcoreapp2.0\RotateArray.pdb

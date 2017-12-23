@@ -1,0 +1,11 @@
+D:\geeks\geeksForGeeks\Arrays\LeadersInArray\LeadersInArray\bin\Debug\netcoreapp2.0\LeadersInArray.deps.json
+D:\geeks\geeksForGeeks\Arrays\LeadersInArray\LeadersInArray\bin\Debug\netcoreapp2.0\LeadersInArray.runtimeconfig.json
+D:\geeks\geeksForGeeks\Arrays\LeadersInArray\LeadersInArray\bin\Debug\netcoreapp2.0\LeadersInArray.runtimeconfig.dev.json
+D:\geeks\geeksForGeeks\Arrays\LeadersInArray\LeadersInArray\bin\Debug\netcoreapp2.0\LeadersInArray.dll
+D:\geeks\geeksForGeeks\Arrays\LeadersInArray\LeadersInArray\bin\Debug\netcoreapp2.0\LeadersInArray.pdb
+D:\geeks\geeksForGeeks\Arrays\LeadersInArray\LeadersInArray\obj\Debug\netcoreapp2.0\LeadersInArray.csprojResolveAssemblyReference.cache
+D:\geeks\geeksForGeeks\Arrays\LeadersInArray\LeadersInArray\obj\Debug\netcoreapp2.0\LeadersInArray.csproj.CoreCompileInputs.cache
+D:\geeks\geeksForGeeks\Arrays\LeadersInArray\LeadersInArray\obj\Debug\netcoreapp2.0\LeadersInArray.AssemblyInfoInputs.cache
+D:\geeks\geeksForGeeks\Arrays\LeadersInArray\LeadersInArray\obj\Debug\netcoreapp2.0\LeadersInArray.AssemblyInfo.cs
+D:\geeks\geeksForGeeks\Arrays\LeadersInArray\LeadersInArray\obj\Debug\netcoreapp2.0\LeadersInArray.dll
+D:\geeks\geeksForGeeks\Arrays\LeadersInArray\LeadersInArray\obj\Debug\netcoreapp2.0\LeadersInArray.pdb

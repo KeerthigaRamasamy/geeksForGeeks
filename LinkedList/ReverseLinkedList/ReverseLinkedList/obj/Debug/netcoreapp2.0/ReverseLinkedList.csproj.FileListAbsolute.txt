@@ -1,0 +1,11 @@
+D:\geeks\geeksForGeeks\LinkedList\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp2.0\ReverseLinkedList.deps.json
+D:\geeks\geeksForGeeks\LinkedList\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp2.0\ReverseLinkedList.runtimeconfig.json
+D:\geeks\geeksForGeeks\LinkedList\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp2.0\ReverseLinkedList.runtimeconfig.dev.json
+D:\geeks\geeksForGeeks\LinkedList\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp2.0\ReverseLinkedList.dll
+D:\geeks\geeksForGeeks\LinkedList\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp2.0\ReverseLinkedList.pdb
+D:\geeks\geeksForGeeks\LinkedList\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp2.0\ReverseLinkedList.csprojResolveAssemblyReference.cache
+D:\geeks\geeksForGeeks\LinkedList\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp2.0\ReverseLinkedList.csproj.CoreCompileInputs.cache
+D:\geeks\geeksForGeeks\LinkedList\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp2.0\ReverseLinkedList.AssemblyInfoInputs.cache
+D:\geeks\geeksForGeeks\LinkedList\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp2.0\ReverseLinkedList.AssemblyInfo.cs
+D:\geeks\geeksForGeeks\LinkedList\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp2.0\ReverseLinkedList.dll
+D:\geeks\geeksForGeeks\LinkedList\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp2.0\ReverseLinkedList.pdb

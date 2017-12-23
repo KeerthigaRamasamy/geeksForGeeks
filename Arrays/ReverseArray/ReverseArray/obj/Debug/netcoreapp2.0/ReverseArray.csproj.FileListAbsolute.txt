@@ -1,0 +1,11 @@
+D:\geeks\geeksForGeeks\Arrays\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.0\ReverseArray.deps.json
+D:\geeks\geeksForGeeks\Arrays\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.0\ReverseArray.runtimeconfig.json
+D:\geeks\geeksForGeeks\Arrays\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.0\ReverseArray.runtimeconfig.dev.json
+D:\geeks\geeksForGeeks\Arrays\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.0\ReverseArray.dll
+D:\geeks\geeksForGeeks\Arrays\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.0\ReverseArray.pdb
+D:\geeks\geeksForGeeks\Arrays\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.0\ReverseArray.csprojResolveAssemblyReference.cache
+D:\geeks\geeksForGeeks\Arrays\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.0\ReverseArray.csproj.CoreCompileInputs.cache
+D:\geeks\geeksForGeeks\Arrays\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.0\ReverseArray.AssemblyInfoInputs.cache
+D:\geeks\geeksForGeeks\Arrays\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.0\ReverseArray.AssemblyInfo.cs
+D:\geeks\geeksForGeeks\Arrays\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.0\ReverseArray.dll
+D:\geeks\geeksForGeeks\Arrays\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.0\ReverseArray.pdb

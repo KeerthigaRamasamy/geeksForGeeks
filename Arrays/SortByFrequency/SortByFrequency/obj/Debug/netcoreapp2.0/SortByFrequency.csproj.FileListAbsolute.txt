@@ -1,0 +1,11 @@
+D:\geeks\geeksForGeeks\Arrays\SortByFrequency\SortByFrequency\bin\Debug\netcoreapp2.0\SortByFrequency.deps.json
+D:\geeks\geeksForGeeks\Arrays\SortByFrequency\SortByFrequency\bin\Debug\netcoreapp2.0\SortByFrequency.runtimeconfig.json
+D:\geeks\geeksForGeeks\Arrays\SortByFrequency\SortByFrequency\bin\Debug\netcoreapp2.0\SortByFrequency.runtimeconfig.dev.json
+D:\geeks\geeksForGeeks\Arrays\SortByFrequency\SortByFrequency\bin\Debug\netcoreapp2.0\SortByFrequency.dll
+D:\geeks\geeksForGeeks\Arrays\SortByFrequency\SortByFrequency\bin\Debug\netcoreapp2.0\SortByFrequency.pdb
+D:\geeks\geeksForGeeks\Arrays\SortByFrequency\SortByFrequency\obj\Debug\netcoreapp2.0\SortByFrequency.csprojResolveAssemblyReference.cache
+D:\geeks\geeksForGeeks\Arrays\SortByFrequency\SortByFrequency\obj\Debug\netcoreapp2.0\SortByFrequency.csproj.CoreCompileInputs.cache
+D:\geeks\geeksForGeeks\Arrays\SortByFrequency\SortByFrequency\obj\Debug\netcoreapp2.0\SortByFrequency.AssemblyInfoInputs.cache
+D:\geeks\geeksForGeeks\Arrays\SortByFrequency\SortByFrequency\obj\Debug\netcoreapp2.0\SortByFrequency.AssemblyInfo.cs
+D:\geeks\geeksForGeeks\Arrays\SortByFrequency\SortByFrequency\obj\Debug\netcoreapp2.0\SortByFrequency.dll
+D:\geeks\geeksForGeeks\Arrays\SortByFrequency\SortByFrequency\obj\Debug\netcoreapp2.0\SortByFrequency.pdb
