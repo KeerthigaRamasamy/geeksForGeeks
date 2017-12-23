@@ -1,0 +1,10 @@
+D:\geeks\geeksForGeeks\Arrays\MajorityElementInSortedArray\MajorityElementInSortedArray\bin\Debug\netcoreapp2.0\MajorityElementInSortedArray.deps.json
+D:\geeks\geeksForGeeks\Arrays\MajorityElementInSortedArray\MajorityElementInSortedArray\bin\Debug\netcoreapp2.0\MajorityElementInSortedArray.runtimeconfig.json
+D:\geeks\geeksForGeeks\Arrays\MajorityElementInSortedArray\MajorityElementInSortedArray\bin\Debug\netcoreapp2.0\MajorityElementInSortedArray.runtimeconfig.dev.json
+D:\geeks\geeksForGeeks\Arrays\MajorityElementInSortedArray\MajorityElementInSortedArray\bin\Debug\netcoreapp2.0\MajorityElementInSortedArray.dll
+D:\geeks\geeksForGeeks\Arrays\MajorityElementInSortedArray\MajorityElementInSortedArray\bin\Debug\netcoreapp2.0\MajorityElementInSortedArray.pdb
+D:\geeks\geeksForGeeks\Arrays\MajorityElementInSortedArray\MajorityElementInSortedArray\obj\Debug\netcoreapp2.0\MajorityElementInSortedArray.csproj.CoreCompileInputs.cache
+D:\geeks\geeksForGeeks\Arrays\MajorityElementInSortedArray\MajorityElementInSortedArray\obj\Debug\netcoreapp2.0\MajorityElementInSortedArray.AssemblyInfoInputs.cache
+D:\geeks\geeksForGeeks\Arrays\MajorityElementInSortedArray\MajorityElementInSortedArray\obj\Debug\netcoreapp2.0\MajorityElementInSortedArray.AssemblyInfo.cs
+D:\geeks\geeksForGeeks\Arrays\MajorityElementInSortedArray\MajorityElementInSortedArray\obj\Debug\netcoreapp2.0\MajorityElementInSortedArray.dll
+D:\geeks\geeksForGeeks\Arrays\MajorityElementInSortedArray\MajorityElementInSortedArray\obj\Debug\netcoreapp2.0\MajorityElementInSortedArray.pdb
