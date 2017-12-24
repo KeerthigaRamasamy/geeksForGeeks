@@ -1,0 +1,11 @@
+D:\geeks\geeksForGeeks\Recursion\SumDigitsOfNumber\SumDigitsOfNumber\bin\Debug\netcoreapp2.0\SumDigitsOfNumber.deps.json
+D:\geeks\geeksForGeeks\Recursion\SumDigitsOfNumber\SumDigitsOfNumber\bin\Debug\netcoreapp2.0\SumDigitsOfNumber.runtimeconfig.json
+D:\geeks\geeksForGeeks\Recursion\SumDigitsOfNumber\SumDigitsOfNumber\bin\Debug\netcoreapp2.0\SumDigitsOfNumber.runtimeconfig.dev.json
+D:\geeks\geeksForGeeks\Recursion\SumDigitsOfNumber\SumDigitsOfNumber\bin\Debug\netcoreapp2.0\SumDigitsOfNumber.dll
+D:\geeks\geeksForGeeks\Recursion\SumDigitsOfNumber\SumDigitsOfNumber\bin\Debug\netcoreapp2.0\SumDigitsOfNumber.pdb
+D:\geeks\geeksForGeeks\Recursion\SumDigitsOfNumber\SumDigitsOfNumber\obj\Debug\netcoreapp2.0\SumDigitsOfNumber.csprojResolveAssemblyReference.cache
+D:\geeks\geeksForGeeks\Recursion\SumDigitsOfNumber\SumDigitsOfNumber\obj\Debug\netcoreapp2.0\SumDigitsOfNumber.csproj.CoreCompileInputs.cache
+D:\geeks\geeksForGeeks\Recursion\SumDigitsOfNumber\SumDigitsOfNumber\obj\Debug\netcoreapp2.0\SumDigitsOfNumber.AssemblyInfoInputs.cache
+D:\geeks\geeksForGeeks\Recursion\SumDigitsOfNumber\SumDigitsOfNumber\obj\Debug\netcoreapp2.0\SumDigitsOfNumber.AssemblyInfo.cs
+D:\geeks\geeksForGeeks\Recursion\SumDigitsOfNumber\SumDigitsOfNumber\obj\Debug\netcoreapp2.0\SumDigitsOfNumber.dll
+D:\geeks\geeksForGeeks\Recursion\SumDigitsOfNumber\SumDigitsOfNumber\obj\Debug\netcoreapp2.0\SumDigitsOfNumber.pdb
