@@ -1,0 +1,11 @@
+D:\geeks\geeksForGeeks\Backtracking\NQueensProblem\NQueensProblem\bin\Debug\netcoreapp2.0\NQueensProblem.deps.json
+D:\geeks\geeksForGeeks\Backtracking\NQueensProblem\NQueensProblem\bin\Debug\netcoreapp2.0\NQueensProblem.runtimeconfig.json
+D:\geeks\geeksForGeeks\Backtracking\NQueensProblem\NQueensProblem\bin\Debug\netcoreapp2.0\NQueensProblem.runtimeconfig.dev.json
+D:\geeks\geeksForGeeks\Backtracking\NQueensProblem\NQueensProblem\bin\Debug\netcoreapp2.0\NQueensProblem.dll
+D:\geeks\geeksForGeeks\Backtracking\NQueensProblem\NQueensProblem\bin\Debug\netcoreapp2.0\NQueensProblem.pdb
+D:\geeks\geeksForGeeks\Backtracking\NQueensProblem\NQueensProblem\obj\Debug\netcoreapp2.0\NQueensProblem.csprojResolveAssemblyReference.cache
+D:\geeks\geeksForGeeks\Backtracking\NQueensProblem\NQueensProblem\obj\Debug\netcoreapp2.0\NQueensProblem.csproj.CoreCompileInputs.cache
+D:\geeks\geeksForGeeks\Backtracking\NQueensProblem\NQueensProblem\obj\Debug\netcoreapp2.0\NQueensProblem.AssemblyInfoInputs.cache
+D:\geeks\geeksForGeeks\Backtracking\NQueensProblem\NQueensProblem\obj\Debug\netcoreapp2.0\NQueensProblem.AssemblyInfo.cs
+D:\geeks\geeksForGeeks\Backtracking\NQueensProblem\NQueensProblem\obj\Debug\netcoreapp2.0\NQueensProblem.dll
+D:\geeks\geeksForGeeks\Backtracking\NQueensProblem\NQueensProblem\obj\Debug\netcoreapp2.0\NQueensProblem.pdb

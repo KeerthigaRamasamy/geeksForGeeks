@@ -1,0 +1,11 @@
+D:\geeks\geeksForGeeks\Backtracking\PermutationsOfAString\PermutationsOfAString\bin\Debug\netcoreapp2.0\PermutationsOfAString.deps.json
+D:\geeks\geeksForGeeks\Backtracking\PermutationsOfAString\PermutationsOfAString\bin\Debug\netcoreapp2.0\PermutationsOfAString.runtimeconfig.json
+D:\geeks\geeksForGeeks\Backtracking\PermutationsOfAString\PermutationsOfAString\bin\Debug\netcoreapp2.0\PermutationsOfAString.runtimeconfig.dev.json
+D:\geeks\geeksForGeeks\Backtracking\PermutationsOfAString\PermutationsOfAString\bin\Debug\netcoreapp2.0\PermutationsOfAString.dll
+D:\geeks\geeksForGeeks\Backtracking\PermutationsOfAString\PermutationsOfAString\bin\Debug\netcoreapp2.0\PermutationsOfAString.pdb
+D:\geeks\geeksForGeeks\Backtracking\PermutationsOfAString\PermutationsOfAString\obj\Debug\netcoreapp2.0\PermutationsOfAString.csprojResolveAssemblyReference.cache
+D:\geeks\geeksForGeeks\Backtracking\PermutationsOfAString\PermutationsOfAString\obj\Debug\netcoreapp2.0\PermutationsOfAString.csproj.CoreCompileInputs.cache
+D:\geeks\geeksForGeeks\Backtracking\PermutationsOfAString\PermutationsOfAString\obj\Debug\netcoreapp2.0\PermutationsOfAString.AssemblyInfoInputs.cache
+D:\geeks\geeksForGeeks\Backtracking\PermutationsOfAString\PermutationsOfAString\obj\Debug\netcoreapp2.0\PermutationsOfAString.AssemblyInfo.cs
+D:\geeks\geeksForGeeks\Backtracking\PermutationsOfAString\PermutationsOfAString\obj\Debug\netcoreapp2.0\PermutationsOfAString.dll
+D:\geeks\geeksForGeeks\Backtracking\PermutationsOfAString\PermutationsOfAString\obj\Debug\netcoreapp2.0\PermutationsOfAString.pdb
