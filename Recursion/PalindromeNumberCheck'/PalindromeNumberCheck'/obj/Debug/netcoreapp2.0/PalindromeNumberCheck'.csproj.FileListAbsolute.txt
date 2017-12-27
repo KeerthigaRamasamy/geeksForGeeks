@@ -1,0 +1,11 @@
+D:\geeks\geeksForGeeks\Recursion\PalindromeNumberCheck'\PalindromeNumberCheck'\bin\Debug\netcoreapp2.0\PalindromeNumberCheck'.deps.json
+D:\geeks\geeksForGeeks\Recursion\PalindromeNumberCheck'\PalindromeNumberCheck'\bin\Debug\netcoreapp2.0\PalindromeNumberCheck'.runtimeconfig.json
+D:\geeks\geeksForGeeks\Recursion\PalindromeNumberCheck'\PalindromeNumberCheck'\bin\Debug\netcoreapp2.0\PalindromeNumberCheck'.runtimeconfig.dev.json
+D:\geeks\geeksForGeeks\Recursion\PalindromeNumberCheck'\PalindromeNumberCheck'\bin\Debug\netcoreapp2.0\PalindromeNumberCheck'.dll
+D:\geeks\geeksForGeeks\Recursion\PalindromeNumberCheck'\PalindromeNumberCheck'\bin\Debug\netcoreapp2.0\PalindromeNumberCheck'.pdb
+D:\geeks\geeksForGeeks\Recursion\PalindromeNumberCheck'\PalindromeNumberCheck'\obj\Debug\netcoreapp2.0\PalindromeNumberCheck'.csprojResolveAssemblyReference.cache
+D:\geeks\geeksForGeeks\Recursion\PalindromeNumberCheck'\PalindromeNumberCheck'\obj\Debug\netcoreapp2.0\PalindromeNumberCheck'.csproj.CoreCompileInputs.cache
+D:\geeks\geeksForGeeks\Recursion\PalindromeNumberCheck'\PalindromeNumberCheck'\obj\Debug\netcoreapp2.0\PalindromeNumberCheck'.AssemblyInfoInputs.cache
+D:\geeks\geeksForGeeks\Recursion\PalindromeNumberCheck'\PalindromeNumberCheck'\obj\Debug\netcoreapp2.0\PalindromeNumberCheck'.AssemblyInfo.cs
+D:\geeks\geeksForGeeks\Recursion\PalindromeNumberCheck'\PalindromeNumberCheck'\obj\Debug\netcoreapp2.0\PalindromeNumberCheck'.dll
+D:\geeks\geeksForGeeks\Recursion\PalindromeNumberCheck'\PalindromeNumberCheck'\obj\Debug\netcoreapp2.0\PalindromeNumberCheck'.pdb

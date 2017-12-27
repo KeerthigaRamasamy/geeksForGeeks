@@ -1,0 +1,11 @@
+D:\geeks\geeksForGeeks\Backtracking\Knight'sTourProblem\Knight'sTourProblem\bin\Debug\netcoreapp2.0\Knight'sTourProblem.deps.json
+D:\geeks\geeksForGeeks\Backtracking\Knight'sTourProblem\Knight'sTourProblem\bin\Debug\netcoreapp2.0\Knight'sTourProblem.runtimeconfig.json
+D:\geeks\geeksForGeeks\Backtracking\Knight'sTourProblem\Knight'sTourProblem\bin\Debug\netcoreapp2.0\Knight'sTourProblem.runtimeconfig.dev.json
+D:\geeks\geeksForGeeks\Backtracking\Knight'sTourProblem\Knight'sTourProblem\bin\Debug\netcoreapp2.0\Knight'sTourProblem.dll
+D:\geeks\geeksForGeeks\Backtracking\Knight'sTourProblem\Knight'sTourProblem\bin\Debug\netcoreapp2.0\Knight'sTourProblem.pdb
+D:\geeks\geeksForGeeks\Backtracking\Knight'sTourProblem\Knight'sTourProblem\obj\Debug\netcoreapp2.0\Knight'sTourProblem.csprojResolveAssemblyReference.cache
+D:\geeks\geeksForGeeks\Backtracking\Knight'sTourProblem\Knight'sTourProblem\obj\Debug\netcoreapp2.0\Knight'sTourProblem.csproj.CoreCompileInputs.cache
+D:\geeks\geeksForGeeks\Backtracking\Knight'sTourProblem\Knight'sTourProblem\obj\Debug\netcoreapp2.0\Knight'sTourProblem.AssemblyInfoInputs.cache
+D:\geeks\geeksForGeeks\Backtracking\Knight'sTourProblem\Knight'sTourProblem\obj\Debug\netcoreapp2.0\Knight'sTourProblem.AssemblyInfo.cs
+D:\geeks\geeksForGeeks\Backtracking\Knight'sTourProblem\Knight'sTourProblem\obj\Debug\netcoreapp2.0\Knight'sTourProblem.dll
+D:\geeks\geeksForGeeks\Backtracking\Knight'sTourProblem\Knight'sTourProblem\obj\Debug\netcoreapp2.0\Knight'sTourProblem.pdb
